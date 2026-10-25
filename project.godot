@@ -3,7 +3,7 @@ config_version=5
 
 [application]
 
-config/name="Household Havoc"
+config/name="Crumb Lords"
 run/main_scene="res://levels/kitchen_counter.tscn"
 config/features=PackedStringArray("4.7", "Forward Plus")
 

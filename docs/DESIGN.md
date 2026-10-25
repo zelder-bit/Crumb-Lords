@@ -1,4 +1,4 @@
-# Household Havoc — design
+# Crumb Lords — design
 A goofy 3D shooter. You play as a piece of furniture or a household item: door, table, TV, and so on. That object is your "race" or class. Weapons are other household items with silly mechanics, e.g. a **chapstick laser** where reloading means twisting the base until the stick comes back up.
 
 **Locked decisions:**

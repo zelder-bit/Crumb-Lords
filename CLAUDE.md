@@ -1,4 +1,4 @@
-# Household Havoc — agent rules
+# Crumb Lords — agent rules
 
 A goofy first-person shooter in Godot **4.7.2**. You play as a dollhouse-scale household object (Door, Table, TV) in a giant kitchen. The design is in `docs/DESIGN.md` and the code interfaces are in `docs/ARCHITECTURE.md`.
 
