@@ -23,7 +23,7 @@ Methods used by enemies:
 - `take_damage(amount: float, from_pos: Vector3) -> void`. The class passive may reduce it.
 - `apply_knockback(impulse: Vector3) -> void`
 - `is_dead() -> bool`
-- `on_dealt_damage(amount: float)` and `on_enemy_killed(enemy)`, which charge the super meter
+- `on_dealt_damage(amount: float)` and `on_enemy_killed(enemy)`, which charge the super meter. `Enemy.take_damage` calls these; weapons must not.
 - `camera: Camera3D`
 
 ## Enemy (`enemies/enemy.gd`, `class_name Enemy extends CharacterBody3D`)
