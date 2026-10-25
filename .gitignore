@@ -1,0 +1,4 @@
+.godot/
+shots/
+tools/godot_api/
+*.tmp
